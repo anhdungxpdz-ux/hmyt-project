@@ -26,7 +26,7 @@ theo đề tài đã chọn trong [Ngân hàng đề tài](https://fossbk-spec.g
 ## Cấu trúc repo
 
 ```
-htmy-project/
+hmyt-project/
 ├── submissions/
 │   ├── _TEMPLATE/                  ← Copy thư mục này để bắt đầu nộp bài
 │   │   ├── submission.json         ← Thông tin nhóm + đề tài (bắt buộc)

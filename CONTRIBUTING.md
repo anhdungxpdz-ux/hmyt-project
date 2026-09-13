@@ -42,7 +42,7 @@ ghi đè hay xung đột với nhóm B.
    python scripts/validate_submission.py submissions/suy_tim_risk_dxai_nhom07
    ```
 6. **Commit + push** lên fork của bạn, rồi **mở Pull Request** vào
-   `main` của `fossbk-spec/htmy-project`.
+   `main` của `fossbk-spec/hmyt-project`.
 7. Chờ CI chạy xanh (✅) — nếu đỏ (❌), đọc log lỗi, sửa, push tiếp lên
    cùng branch (PR tự cập nhật, không cần mở PR mới).
 8. Giảng viên/TA review nội dung và merge. Sau khi merge, bài nộp của nhóm
@@ -59,7 +59,7 @@ ghi đè hay xung đột với nhóm B.
   "group_code": "nhom07",
   "members": ["MSSV1", "MSSV2", "MSSV3"],
   "submitted_at": "2026-12-15",
-  "repo_link_optional": "https://github.com/<fork>/htmy-project (nếu code chính nằm ở fork riêng, không copy hết vào đây)"
+  "repo_link_optional": "https://github.com/<fork>/hmyt-project (nếu code chính nằm ở fork riêng, không copy hết vào đây)"
 }
 ```
 
